@@ -1,4 +1,4 @@
-# Hi I'm Mathis! 👋
+# Hi I'm Mathis!
 
 Computer Science student at **Université de Montréal**.
 
@@ -15,8 +15,8 @@ Computer Science student at **Université de Montréal**.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathispimpare)
 <!-- - 🌐 [Portfolio](https://yourportfolio.com) -->
-- 📧 Email: mathis.pimpare.dev@gmail.com
-- 💬 Feel free to reach out if you want to collaborate!
+- Email: mathis.pimpare.dev@gmail.com
+- Feel free to reach out if you want to collaborate!
 
 ---
 
