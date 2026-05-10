@@ -14,7 +14,6 @@ Computer Science student at **Université de Montréal**.
 ## 📫 Get in Touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mathispimpare)
-<!-- - 🌐 [Portfolio](https://yourportfolio.com) -->
 - Email: mathis.pimpare.dev@gmail.com
 - Feel free to reach out if you want to collaborate!
 
@@ -25,3 +24,4 @@ Computer Science student at **Université de Montréal**.
 This profile and projects are open for collaboration. Feel free to reach out!
 
 ⭐ If you find my work interesting, don't forget to star some repos!
+<!-- - 🌐 [Portfolio](https://yourportfolio.com) -->
