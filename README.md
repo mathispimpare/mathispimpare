@@ -6,7 +6,7 @@ Computer Science student at **Université de Montréal**.
 
 ## 🎯 Current Goals
 
-- [ ] Learn **[Haskell]**
+- [ ] Learn **Haskell**
 - [ ] Make a Compiler / Interpreter in Haskell for a custom programming language.
 
 ---
