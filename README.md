@@ -16,10 +16,9 @@ I am mainly interested in programming languages, operating systems and locksport
 - [ ] Make an Interpreter in Haskell for a custom programming language.
 
 ## Where to find me
-<p>
-  <a href="https://www.linkedin.com/in/mathispimpare"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:mathis.pimpare.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathispimpare)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathis.pimpare.dev@gmail.com)
+
 Feel free to reach out if you want to collaborate!
 
 ## Things I use / code with
