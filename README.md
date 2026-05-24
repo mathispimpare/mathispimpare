@@ -12,7 +12,6 @@ I am mainly interested in programming languages, operating systems and locksport
 
 ## Current Goals
 
-- [ ] Learn **Haskell**
 - [ ] Make an Interpreter in Haskell for a custom programming language.
 
 ## Where to find me
