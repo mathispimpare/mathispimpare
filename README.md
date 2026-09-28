@@ -20,6 +20,7 @@ Feel free to reach out if you want to collaborate!
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![MIPS](https://img.shields.io/badge/MIPS-Assembly-555555?style=for-the-badge)
 ![Web](https://img.shields.io/badge/Web-Development-0A66C2?style=for-the-badge&logo=html5&logoColor=white)
